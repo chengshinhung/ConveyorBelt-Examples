@@ -3,9 +3,10 @@
 ----------
 ## Summary
 * **Support for custom development**
-* **Support carrying blocks**
+* **Support material carrying**
 * **Support color recognition**
-* **Support carrying count**
+* **Support carrying counting**
+* **Support multi-machine collaboration**
 ## Caution
 * Make sure you place uArm right on the seat
 
